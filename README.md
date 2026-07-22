@@ -39,6 +39,19 @@ It compares the available equipment and generates indicative system recommendati
 ## Running the application
 
 Install the dependencies:
+```bash
+pip install -r requirements.txt
+```
 
+Run the application:
+
+```bash
+streamlit run main.py
+```
+
+## Author
+
+**Flaviu Mariș**  
+ETTI graduate – Technical University of Cluj-Napoca
 ```bash
 pip install -r requirements.txt
