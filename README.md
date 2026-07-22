@@ -53,5 +53,23 @@ streamlit run main.py
 
 **Flaviu Mariș**  
 ETTI graduate – Technical University of Cluj-Napoca
+
+## Application screenshots
+
+### Main interface
+
+![Main interface](main-interface.png)
+
+### Input data and consumption summary
+
+![Input data and consumption summary](input-summary.png)
+
+### Optimal photovoltaic recommendation
+
+![Optimal photovoltaic recommendation](optimal-recommendation.png)
+
+### Cost analysis and alternative solutions
+
+![Cost analysis and alternative solutions](cost-analysis-alternatives.png)
 ```bash
 pip install -r requirements.txt
